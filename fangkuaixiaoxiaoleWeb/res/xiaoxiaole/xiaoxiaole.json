@@ -1,0 +1,13 @@
+{
+"companyName": "foldcc",
+"productName": "fangkuaixiaoxiaole",
+"dataUrl": "https://fold.oss-cn-shanghai.aliyuncs.com/Geeit/fangkuaixiaoxiaole/gameres/xiaoxiaole.data.unityweb",
+"asmCodeUrl": "https://fold.oss-cn-shanghai.aliyuncs.com/Geeit/fangkuaixiaoxiaole/gameres/xiaoxiaole.asm.code.unityweb",
+"asmMemoryUrl": "https://fold.oss-cn-shanghai.aliyuncs.com/Geeit/fangkuaixiaoxiaole/gameres/xiaoxiaole.asm.memory.unityweb",
+"asmFrameworkUrl": "https://fold.oss-cn-shanghai.aliyuncs.com/Geeit/fangkuaixiaoxiaole/gameres/xiaoxiaole.asm.framework.unityweb",
+"TOTAL_MEMORY": 83886080,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1A022E"
+}
